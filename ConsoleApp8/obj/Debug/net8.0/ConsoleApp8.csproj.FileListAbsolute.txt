@@ -1,0 +1,14 @@
+D:\3 курс\ПРАКТИКА\Модуль 2\ConsoleApp8\bin\Debug\net8.0\ConsoleApp8.exe
+D:\3 курс\ПРАКТИКА\Модуль 2\ConsoleApp8\bin\Debug\net8.0\ConsoleApp8.deps.json
+D:\3 курс\ПРАКТИКА\Модуль 2\ConsoleApp8\bin\Debug\net8.0\ConsoleApp8.runtimeconfig.json
+D:\3 курс\ПРАКТИКА\Модуль 2\ConsoleApp8\bin\Debug\net8.0\ConsoleApp8.dll
+D:\3 курс\ПРАКТИКА\Модуль 2\ConsoleApp8\bin\Debug\net8.0\ConsoleApp8.pdb
+D:\3 курс\ПРАКТИКА\Модуль 2\ConsoleApp8\obj\Debug\net8.0\ConsoleApp8.GeneratedMSBuildEditorConfig.editorconfig
+D:\3 курс\ПРАКТИКА\Модуль 2\ConsoleApp8\obj\Debug\net8.0\ConsoleApp8.AssemblyInfoInputs.cache
+D:\3 курс\ПРАКТИКА\Модуль 2\ConsoleApp8\obj\Debug\net8.0\ConsoleApp8.AssemblyInfo.cs
+D:\3 курс\ПРАКТИКА\Модуль 2\ConsoleApp8\obj\Debug\net8.0\ConsoleApp8.csproj.CoreCompileInputs.cache
+D:\3 курс\ПРАКТИКА\Модуль 2\ConsoleApp8\obj\Debug\net8.0\ConsoleApp8.dll
+D:\3 курс\ПРАКТИКА\Модуль 2\ConsoleApp8\obj\Debug\net8.0\refint\ConsoleApp8.dll
+D:\3 курс\ПРАКТИКА\Модуль 2\ConsoleApp8\obj\Debug\net8.0\ConsoleApp8.pdb
+D:\3 курс\ПРАКТИКА\Модуль 2\ConsoleApp8\obj\Debug\net8.0\ConsoleApp8.genruntimeconfig.cache
+D:\3 курс\ПРАКТИКА\Модуль 2\ConsoleApp8\obj\Debug\net8.0\ref\ConsoleApp8.dll
