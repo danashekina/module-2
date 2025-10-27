@@ -1,0 +1,14 @@
+D:\лабы 3 курс\1 СЕМЕСТР\ПРАКТИКА\задания сишарп\M2.1\M2.1\obj\Debug\net8.0\M2.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\лабы 3 курс\1 СЕМЕСТР\ПРАКТИКА\задания сишарп\M2.1\M2.1\obj\Debug\net8.0\M2.1.AssemblyInfoInputs.cache
+D:\лабы 3 курс\1 СЕМЕСТР\ПРАКТИКА\задания сишарп\M2.1\M2.1\obj\Debug\net8.0\M2.1.AssemblyInfo.cs
+D:\лабы 3 курс\1 СЕМЕСТР\ПРАКТИКА\задания сишарп\M2.1\M2.1\obj\Debug\net8.0\M2.1.csproj.CoreCompileInputs.cache
+D:\лабы 3 курс\1 СЕМЕСТР\ПРАКТИКА\задания сишарп\M2.1\M2.1\bin\Debug\net8.0\M2.1.exe
+D:\лабы 3 курс\1 СЕМЕСТР\ПРАКТИКА\задания сишарп\M2.1\M2.1\bin\Debug\net8.0\M2.1.deps.json
+D:\лабы 3 курс\1 СЕМЕСТР\ПРАКТИКА\задания сишарп\M2.1\M2.1\bin\Debug\net8.0\M2.1.runtimeconfig.json
+D:\лабы 3 курс\1 СЕМЕСТР\ПРАКТИКА\задания сишарп\M2.1\M2.1\bin\Debug\net8.0\M2.1.dll
+D:\лабы 3 курс\1 СЕМЕСТР\ПРАКТИКА\задания сишарп\M2.1\M2.1\bin\Debug\net8.0\M2.1.pdb
+D:\лабы 3 курс\1 СЕМЕСТР\ПРАКТИКА\задания сишарп\M2.1\M2.1\obj\Debug\net8.0\M2.1.dll
+D:\лабы 3 курс\1 СЕМЕСТР\ПРАКТИКА\задания сишарп\M2.1\M2.1\obj\Debug\net8.0\refint\M2.1.dll
+D:\лабы 3 курс\1 СЕМЕСТР\ПРАКТИКА\задания сишарп\M2.1\M2.1\obj\Debug\net8.0\M2.1.pdb
+D:\лабы 3 курс\1 СЕМЕСТР\ПРАКТИКА\задания сишарп\M2.1\M2.1\obj\Debug\net8.0\M2.1.genruntimeconfig.cache
+D:\лабы 3 курс\1 СЕМЕСТР\ПРАКТИКА\задания сишарп\M2.1\M2.1\obj\Debug\net8.0\ref\M2.1.dll
